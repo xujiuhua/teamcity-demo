@@ -17,6 +17,7 @@ public class TeamcityDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TeamcityDemoApplication.class, args);
+        System.out.println("1111");
     }
 
 
